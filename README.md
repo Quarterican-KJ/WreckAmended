@@ -7,6 +7,7 @@ This project utilises Expression Engine CMS to allow for content editing by the 
 
 Languages Used:
 HTML
+PHP
 CSS
 Bootstrap
 JQuery
